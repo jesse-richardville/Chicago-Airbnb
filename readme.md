@@ -1,7 +1,7 @@
 # Chicago Airbnb Project
 
 ## Summary:
-This data exploration project was completed by Jesse Richardville as a portfolio project looking at Chicago Airbnb listings from  9/14/2022 - 9/13/2023. Microsoft Excel and Tableau have been used to complete this Airbnb data exploration project, which has been posted online through GitHub. The Tableau project visuals can be viewed [here](https://public.tableau.com/app/profile/jesse.richardville/viz/ChicagoAirBnB_16708771482760/ChicagoAirBnB1022-923).
+This data exploration project was completed as a portfolio project looking into Chicago Airbnb listing information (comparing neighborhoods, bedrooms, and pricing) from  9/14/2022 - 9/13/2023. Microsoft Excel and Tableau have been used to complete this Airbnb data project, which has been posted online through GitHub. The Tableau project visuals can be viewed [here](https://public.tableau.com/app/profile/jesse.richardville/viz/ChicagoAirBnB_16708771482760/ChicagoAirBnB1022-923).
 
 ## Data Source:
 
